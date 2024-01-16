@@ -1,4 +1,3 @@
-# README.md
 - 👋 Hi, I’m @Edward7n15
 - 🌱 I’m currently a 3rd-year student at the University of Alberta, majoring in Computer Science Honors
 - 📫 How to reach me:
